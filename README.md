@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I'm a Software Engineer mainly focused on C# and .NET technology.
+
+### 📊 My Github stats
+
+![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk9r327)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk9r327)
