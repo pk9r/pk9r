@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 📊 My Github stats
 
-![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk9r327)
+![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk9r)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk9r327)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk9r)
