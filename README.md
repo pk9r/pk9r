@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=pk9r)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pk9r)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pk9r)
 
